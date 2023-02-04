@@ -6,7 +6,7 @@
 <div id="about" class="text-center" in:fly={{ duration: 1000 }} out:fly={{ duration: 500 }}>
 	<div class="flex flex-col container justify-center mx-auto items-center md:flex-row">
 		<div class="w-[20em] md:w-[40em] md:px-2">
-			<h3 class="font-bold text-4xl pb-10">About Me</h3>
+			<h3 class="font-bold text-4xl pb-6">About Me</h3>
 			<p class="text-left pb-2">
 				I am a Fullstack Web and Mobile Developer, Mentor, Tutor, Technical Writer and Community
 				Builder, Based in Lagos, Nigeria

@@ -40,7 +40,9 @@
 	};
 </script>
 
-<div class="py-4 w-full flex items-center justify-between px-[4em]">
+<div
+	class="py-4 w-full flex items-center justify-between px-[4em] sticky top-0 bg-background-color"
+>
 	<div class="">
 		<a href="/">
 			<img src={logo} alt="logo" class="w-10 h-10" />
