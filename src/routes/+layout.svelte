@@ -7,7 +7,7 @@
 	<title>Ify | Developer</title>
 </svelte:head>
 
-<div class="bg-background-color text-white  min-h-screen ">
+<div class="bg-background-color text-white min-h-screen ">
 	<Navbar />
 	<slot />
 </div>

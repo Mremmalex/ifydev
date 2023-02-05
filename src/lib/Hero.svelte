@@ -4,7 +4,7 @@
 </script>
 
 <div
-	class=" pt-[12em] mx-auto flex flex-col justify-center items-center  bg-cover bg-center bg-no-repeat bg-fixed"
+	class=" pt-[6em] mx-auto flex flex-col justify-center items-center"
 	id="home"
 	in:slide={{ duration: 1000 }}
 	out:slide={{ duration: 2000 }}

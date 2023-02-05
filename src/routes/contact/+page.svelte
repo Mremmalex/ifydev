@@ -3,7 +3,7 @@
 </script>
 
 <svelte:head>
-	<title>Ify|Contact</title>
+	<title>Ify | ifydev | ifeanyi | ifeanyichukwu</title>
 </svelte:head>
 
 <section
@@ -11,6 +11,5 @@
 	in:slide={{ duration: 1000 }}
 	out:slide={{ duration: 1000 }}
 >
-	<h1>Contact section</h1>
-
+	<h1>Say Hello</h1>
 </section>
