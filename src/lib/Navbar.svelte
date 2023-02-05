@@ -1,36 +1,36 @@
 <script lang="ts">
 	import logo from '$lib/assets/images/app_logo.png';
 	import user from '$lib/assets/icon/user.png';
-	import wallet from '$lib/assets/icon/portfolio.png';
+	import blog from '$lib/assets/icon/blog.png';
 	import house from '$lib/assets/icon/home.png';
 	import contact from '$lib/assets/icon/contact.png';
 
 	type Route = {
 		name: string;
 		path: string;
-		icon: String;
+		icon: string;
 	};
 
 	const routes: Array<Route> = [
 		{
 			name: 'Home',
 			path: '/',
-			icon: house.toString()
+			icon: house
 		},
 		{
 			name: 'About',
 			path: '/about',
-			icon: user.toString()
+			icon: user
 		},
 		{
 			name: 'Contact',
 			path: '/contact',
-			icon: contact.toString()
+			icon: contact
 		},
 		{
 			name: 'Blog',
-			path: 'blog.ifydev.live',
-			icon: wallet.toString()
+			path: 'https://blog.ifydev.live',
+			icon: blog
 		}
 	];
 
@@ -41,7 +41,7 @@
 </script>
 
 <div
-	class="py-4 w-full flex items-center justify-between px-[4em] sticky top-0 bg-background-color"
+	class="py-4 w-full flex items-center justify-between px-[2em] sticky top-0 bg-background-color"
 >
 	<div class="">
 		<a href="/">

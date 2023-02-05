@@ -20,11 +20,11 @@
 		<h1 class="text-[4em] font-extrabold">Hello!!!</h1>
 	</div>
 	<div class="mx-2">
-		<h1 class="text-2xl md:text-3xl pb-4 lg:text-[3em] font-serif font-medium">
+		<h1 class="text-2xl md:text-3xl pb-3 lg:text-[3em] font-serif font-medium">
 			I'm Ifeanyichukwu Sampson
 		</h1>
-		<h5 class="pt-3">A Fullstack Web and Mobile Developer</h5>
-		<h5>I help solve your business needs with technology.</h5>
+		<h5 class="pt-2">A Fullstack Web and Mobile Developer.</h5>
+		<h5>creating solutions for business using technology</h5>
 	</div>
 	<div class="pt-10">
 		<a
