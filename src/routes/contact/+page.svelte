@@ -1,5 +1,5 @@
 <script lang="ts">
-	import { fly, slide } from 'svelte/transition';
+	import { slide } from 'svelte/transition';
 </script>
 
 <svelte:head>
@@ -9,7 +9,12 @@
 <section
 	class="mx-auto pt-[7em] justify-center  items-center"
 	in:slide={{ duration: 1000 }}
-	out:slide={{ duration: 1000 }}
+	out:slide={{ duration: 500 }}
 >
-	<h1>Say Hello</h1>
+	<div>
+		<!-- show email and a button to send a mail to me -->
+		<div />
+		<!-- shows all my social links -->
+		<div />
+	</div>
 </section>

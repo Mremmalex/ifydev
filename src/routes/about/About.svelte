@@ -3,7 +3,7 @@
 	import img from '$lib/assets/images/hero_image.jpg';
 </script>
 
-<div id="about" class="text-center" in:fly={{ duration: 1000 }} out:fly={{ duration: 500 }}>
+<div id="about" class="text-center" in:slide={{ duration: 1000 }} out:slide={{ duration: 500 }}>
 	<div class="flex flex-col container justify-center mx-auto items-center md:flex-row">
 		<div class="w-[20em] md:w-[40em] md:px-2">
 			<h3 class="font-bold text-4xl pb-6">About Me</h3>

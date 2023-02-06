@@ -7,7 +7,7 @@
 	class=" pt-[6em] mx-auto flex flex-col justify-center items-center"
 	id="home"
 	in:slide={{ duration: 1000 }}
-	out:slide={{ duration: 2000 }}
+	out:slide={{ duration: 1000 }}
 >
 	<div>
 		<img
@@ -24,7 +24,7 @@
 			I'm Ifeanyichukwu Sampson
 		</h1>
 		<h5 class="pt-2">A Fullstack Web and Mobile Developer.</h5>
-		<h5>creating solutions for business using technology</h5>
+		<h5>Helping Companies and Businesses develop large scale application that serves millions</h5>
 	</div>
 	<div class="pt-10">
 		<a
