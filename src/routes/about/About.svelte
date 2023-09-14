@@ -25,8 +25,8 @@
 				>
 			</p>
 		</div>
-		<div class="w-[25em] md:w-[40em] overflow-hidden rounded-full">
+		<!-- <div class="w-[25em] md:w-[40em] overflow-hidden rounded-full">
 			<img src={img} alt="ifeanyichukwu" class="overflow-hidden rounded-full" />
-		</div>
+		</div> -->
 	</div>
 </div>
